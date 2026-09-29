@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntrotoMVC_MIRANDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80dd12979c6da50e7b54bbf493a9a3ab2c7192c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a43e3cc69e76d38754fc8aeb8447e4052b4ad11")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntrotoMVC_MIRANDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntrotoMVC_MIRANDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
